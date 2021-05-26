@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "animation_sun": "/components/animation_sun/animation_sun",
+    "animation_sad": "/components/animation_sad/animation_sad"
+  }
+}
